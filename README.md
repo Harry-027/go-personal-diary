@@ -1,11 +1,11 @@
 # go-personal-diary
 
 A desktop app that serves as one's personal diary.
-Built on Golang fyne toolkit.
+Built with Golang fyne toolkit.
 
 ## Compilation
 
-`make build` will give an executable in bin directory.
+`make build` will output an executable under bin directory.
 
 ![Go personal diary](https://github.com/Harry-027/go-personal-diary/blob/master/screenshots/Diary_1.PNG?raw=true "Black Background Theme")
 
